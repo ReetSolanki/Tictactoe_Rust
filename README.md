@@ -22,3 +22,5 @@ cargo run
 ## Project Structure
 src/
 └── main.rs   # All game logic
+
+[Made from](https://youtu.be/Jcbh07P0jHU?si=BFIidVpWVi8v9Ik6&t=15062)
